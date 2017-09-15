@@ -1,4 +1,11 @@
 p {
 align:left;
 width:250px;
+text-align: center;
+color: lime;
+}
+
+h1{
+	text-align: center;
+	color: pink;
 }
